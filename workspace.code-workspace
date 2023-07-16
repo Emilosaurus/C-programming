@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"debug.console.fontSize": 17,
+		"markdown.preview.fontSize": 16,
+		"terminal.integrated.fontSize": 16,
+		"editor.fontSize": 18
+	}
+}
